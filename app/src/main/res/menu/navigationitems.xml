@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/Custsprt"
+    android:title="Customer Support"
+    android:icon="@drawable/ic_baseline_person_24"/>
+
+    <item
+        android:id="@+id/knt"
+        android:title="Open konnect Wallet Account"
+        android:icon="@drawable/alphabet_k_icon"/>
+    <item
+        android:id="@+id/Deal"
+        android:title="Deals &amp; Discounts"
+        android:icon="@drawable/ic_baseline_discount_24"/>
+    <item
+        android:id="@+id/rewards"
+        android:title="Rewards Program"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"/>
+
+    <item
+        android:id="@+id/plan"
+        android:title="HBL Installment Plan"
+        android:icon="@drawable/ic_baseline_auto_graph_24"/>
+    <item
+        android:id="@+id/loct"
+        android:title="HBL Locator"
+        android:icon="@drawable/ic_baseline_location_on_24"/>
+    <item
+        android:id="@+id/Schdl"
+        android:title="Schedule of Bank Charges"
+        android:icon="@drawable/ic_baseline_calendar_month_24"/>
+    <item
+        android:id="@+id/nisa"
+        android:title="HBL Nisa"
+        android:icon="@drawable/ic_baseline_woman_24"/>
+
+
+
+
+
+
+</menu>

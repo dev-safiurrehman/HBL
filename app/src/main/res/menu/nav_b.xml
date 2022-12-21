@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/CustsprtB"
+            android:title="Customer Support"
+            android:icon="@drawable/ic_baseline_person_24"/>
+        <item
+            android:id="@+id/DealsB"
+            android:title="Customer Support"
+            android:icon="@drawable/ic_baseline_discount_24"/>
+        <item
+            android:id="@+id/Empty"
+            android:title=""
+            />
+        <item
+            android:id="@+id/LocationB"
+            android:title="HBL Locator"
+            android:icon="@drawable/ic_baseline_location_on_24"/>
+        <item
+            android:id="@+id/RewardsB"
+            android:title="Rewards"
+            android:icon="@drawable/ic_baseline_card_giftcard_24"/>
+
+    </group>
+</menu>
